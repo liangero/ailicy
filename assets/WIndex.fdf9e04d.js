@@ -1,0 +1,1 @@
+import{o as e,c as n}from"./vendor.21d26176.js";const o={components:{},name:"WIndex",created(){},data:()=>({}),props:{},methods:{}};o.render=function(o,t,r,d,a,s){return e(),n("div",null,"content")};export{o as default};
