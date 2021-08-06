@@ -1,1 +1,0 @@
-import{o as e,c as n}from"./vendor.bbaf0565.js";const o={components:{},name:"WIndex",created(){},data:()=>({}),props:{},methods:{}};o.render=function(o,t,r,a,d,s){return e(),n("div",null,"content")};export{o as default};
